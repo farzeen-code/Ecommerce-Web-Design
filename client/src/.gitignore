@@ -1,7 +1,7 @@
 # Ignore dependencies
 node_modules/
-dist/
 .env
+dist/
 
 # Ignore IDE files
 .vscode/
